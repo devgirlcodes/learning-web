@@ -1,1 +1,1 @@
-This repository contains all my code and projects I do while learning web development as well as all the homework as part of my 2022 cohort of 100Devs.
+This repository contains all my code and projects I do as part of my homework for the 2022 cohort of 100Devs.
